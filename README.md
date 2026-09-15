@@ -39,4 +39,4 @@ You can then:
 Created by **Salem Madrista**.
 
 
-**StilZip — Simple. Lightweight. Archived.**
+
